@@ -1,16 +1,26 @@
-### Hi there 👋
+### "Hello friend. Hello friend? That's lame. Maybe I should give you a name."
 
-<!--
-**Timwun/Timwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub noel-lang](https://img.shields.io/github/followers/Timwun?label=follow&style=social)](https://github.com/Timwun)
 
-Here are some ideas to get you started:
+Hey there, I'm Tim. Software engineer and hobbyphotograph.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🎉 &nbsp; 21 years old
+- 📷 &nbsp; Hobbyphotograph
+- 👩‍💻 &nbsp; Working as software engineer at a software company in Germany
+- 🍓 &nbsp; I love Raspberry Pi's
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Kotlin | Golang 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; Lightroom | Photoshop
+
+
+<h3>⬇️ My Certifications</h3>
+
+- Apprenticeship as Computer Science Expert, Subject Area: Software Development (IHK)<br />
+<em>German title: "Fachinformatiker Anwendungsentwicklung"</em>
