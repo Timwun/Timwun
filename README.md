@@ -14,7 +14,7 @@ Hey there, I'm Tim. Software engineer and hobbyphotograph.
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Kotlin | Golang 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🌐 &nbsp; HTML | CSS
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Lightroom | Photoshop
