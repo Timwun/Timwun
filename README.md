@@ -6,7 +6,7 @@ Hey there, I'm Tim. Software engineer and hobbyphotograph.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎉 &nbsp; 22 years old
+- 🎉 &nbsp; 24 years old
 - 📷 &nbsp; Hobbyphotograph
 - 👩‍💻 &nbsp; Working as software engineer at a software company in Germany
 - 🍓 &nbsp; I love Raspberry Pi's
